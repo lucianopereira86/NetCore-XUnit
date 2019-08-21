@@ -1,20 +1,20 @@
 ![titulo](/docs/titulo.JPG)
 
 # TDD-NetCore-XUnit
-Simple TDD example with .Net Core and XUnit
+Simple TDD example with .Net Core and xUnit
 
 ## Technologies
 - .Net Core 2.2
-- XUnit
+- xUnit
 - TDD (Test Driven Development)
 - Swagger 
 - FluentValidation
 - AutoMapper
 
 ## Objective
-In this guide you will learn how to program automated tests in a .Net Core Web API by using [XUnit](https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test).
+In this guide you will learn how to program automated tests in a .Net Core Web API by using [xUnit](https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test).
 
-## How it works
+## Behind The Code
 The APITest solution inside the "api" folder is composed by two layers: Presentation and Test.
 The Presentation layer contains the Web API structure such as Controllers, [Swagger](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio), [AutoMapper](https://www.codeproject.com/Articles/1256100/Automapper-Using-NET-Core-API-2-1), Models and [Validations](https://www.c-sharpcorner.com/article/using-fluentvalidation-in-asp-net-core/).
 The Test layer contains the unit tests.
@@ -36,7 +36,7 @@ The PUT method does not make any operation.
 ![code04](/docs/code04.JPG)
 
 ### Test Layer
-When using the Test Manager, 4 unit tests will be shown inside the XUnit project.
+When using the Test Manager, 4 unit tests will be shown inside the xUnit project.
 The "TestPostUser_BadRequest" and "TestPostUser_Ok" methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.
 The "TestPutUser_BadRequest" and "TestPutUser_Ok" methods do the same but as a PUT request.
 
