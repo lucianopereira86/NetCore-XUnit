@@ -70,27 +70,25 @@ In the Test Manager, click with the right button over "UnitTestUser" and debug o
 
 ![code09](/docs/code09.JPG)
 
-All the tests were successful.
+All the tests will be successful.
 
 ![code10](/docs/code10.JPG)
 
-Now, let's change the UserPutVM's age inside the TestPutUser_Ok from 33 to 15.
+Now, let's change the UserPutVM's age from 33 to 15 and remove the id inside the "TestPutUser_Ok" method.
 
 ![code11](/docs/code11.JPG)
 
-Run the test again and it will be a failure.
+Run the test again and there will be a failure.
 
 ![code12](/docs/code12.JPG)
 
 Why?
-Because the "PostUserValidation" class (inside the "Post" method of the User Controller) was obligating the age to be equal or greater than 18.
-
-![code13](/docs/code13.JPG)
-
-The "PutUserValidation" class has the same rule and validates the user id as well.
+Because the "PutUserValidation" class (inside the "Put" method of the User Controller) was checking if the id was greater than zero and if the age was equal or greater than 18, as it uses the same rules from the "PostUserValidation" class.
 
 ![code14](/docs/code14.JPG)
 
+![code13](/docs/code13.JPG)
+
 ## Conclusion
 
-Although no database connection was present in this project, the tests would be the same because what matters is the validation of the view model and the verification of the result.
+Although no database connection was present in this project, it was possible to test POST and PUT requests to create and update a user because what matters is the validation of the view model and the verification of the result.
