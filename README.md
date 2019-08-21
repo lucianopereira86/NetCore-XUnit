@@ -19,8 +19,8 @@ In this guide you will learn how to program automated tests in a .Net Core Web A
 
 ## Behind The Code
 
-The APITest solution inside the "api" folder is composed by two layers: Presentation and Test.
-The Presentation layer contains the Web API structure such as Controllers, Models, [Swagger](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio), [AutoMapper](https://www.codeproject.com/Articles/1256100/Automapper-Using-NET-Core-API-2-1) and [FluentValidation](https://www.c-sharpcorner.com/article/using-fluentvalidation-in-asp-net-core/).
+The APITest solution inside the "api" folder is composed by two layers: Presentation and Test.  
+The Presentation layer contains the Web API structure such as Controllers, Models, [Swagger](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio), [AutoMapper](https://www.codeproject.com/Articles/1256100/Automapper-Using-NET-Core-API-2-1) and [FluentValidation](https://www.c-sharpcorner.com/article/using-fluentvalidation-in-asp-net-core/).  
 The Test layer contains the unit tests.
 
 ![code01](/docs/code01.JPG)
@@ -43,8 +43,8 @@ The PUT method does not return an object.
 
 ### Test Layer
 
-When using the Test Manager, 4 unit tests will be shown inside the xUnit project.
-The "TestPostUser_BadRequest" and "TestPostUser_Ok" methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.
+When using the Test Manager, 4 unit tests will be shown inside the xUnit project.  
+The "TestPostUser_BadRequest" and "TestPostUser_Ok" methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.  
 The "TestPutUser_BadRequest" and "TestPutUser_Ok" methods do the same but as a PUT request.
 
 ![code02](/docs/code02.JPG)
