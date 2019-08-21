@@ -43,9 +43,7 @@ The PUT method does not return an object.
 
 ### Test Layer
 
-When using the Test Manager, 4 unit tests will be shown inside the xUnit project.  
-The **TestPostUser_BadRequest** and **TestPostUser_Ok** methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.  
-The **TestPutUser_BadRequest** and **TestPutUser_Ok** methods do the same but as a PUT request.
+When using the Test Manager, 4 unit tests will be shown inside the xUnit project.
 
 ![code02](/docs/code02.JPG)
 
