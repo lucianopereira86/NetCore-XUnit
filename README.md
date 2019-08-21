@@ -70,7 +70,7 @@ All the methods have the same behavior:
 
 ![code08](/docs/code08.JPG)
 
-## How to run the project
+## How to Test the Project
 
 In the Test Manager, click with the right button over **UnitTestUser** and debug or run the selected tests.
 
