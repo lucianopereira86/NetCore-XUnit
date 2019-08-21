@@ -83,9 +83,11 @@ Run the test again and there will be a failure.
 ![code12](/docs/code12.JPG)
 
 Why?
-Because the "PutUserValidation" class (inside the "Put" method of the User Controller) was checking if the id was greater than zero and if the age was equal or greater than 18, as it uses the same rules from the "PostUserValidation" class.
+Because the "PutUserValidation" class (inside the "Put" method of the User Controller) was checking if the id was greater than zero.
 
 ![code14](/docs/code14.JPG)
+
+As it was using the same rules from the "PostUserValidation" class, the age had to be equal or greater than 18.
 
 ![code13](/docs/code13.JPG)
 
