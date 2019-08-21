@@ -37,7 +37,7 @@ The POST method sets the user id to 1 by simulating the auto-incrementation in a
 
 ![code03](/docs/code03.JPG)
 
-The PUT method does not make any operation.
+The PUT method does not return an object.
 
 ![code04](/docs/code04.JPG)
 
