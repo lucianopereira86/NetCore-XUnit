@@ -119,4 +119,4 @@ Execute the method and the business exception will be described like this:
 
 ## Conclusion
 
-Although no database connection was present in this project, it was possible to test POST and PUT requests to create and update a user because the unit tests validate the view models and the results.
+Although no database connection was present in this project, it was possible to test POST and PUT requests because the unit tests only needed to validate the results coming from the **UserController**'s methods.
