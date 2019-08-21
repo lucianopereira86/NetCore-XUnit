@@ -25,7 +25,7 @@ The Test layer contains the unit tests.
 The User Controller has two methods: POST and PUT. Both follow the same steps:
 - Copy the view model to the domain model by using the AutoMapper.
 - Validate the domain model with FluentValidation and return a BadRequest in case of business exception.
-- In case of success, if there's an object to return, the AutoMapper copies the domain model to another view model
+- In case of success, if there's an object to return, the AutoMapper copies the domain model to another view model.
 
 The POST method sets the user id to 1 by simulating the auto-incrementation in a database when a new user is created.
 
@@ -37,7 +37,7 @@ The PUT method does not make any operation.
 
 ### Test Layer
 When using the Test Manager, 4 unit tests will be shown inside the XUnit project.
-The "TestPostUser_BadRequest" and "TestPostUser_Ok" methods will simulate a POST request to the User controller expecting business exception ("BadRequest") and success ("Ok"), respectively.
+The "TestPostUser_BadRequest" and "TestPostUser_Ok" methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.
 The "TestPutUser_BadRequest" and "TestPutUser_Ok" methods do the same but as a PUT request.
 
 ![code02](/docs/code02.JPG)
@@ -49,15 +49,19 @@ All the methods have the same behavior:
 - Check if the result is the same as expected.
 
 TestPostUser_BadRequest
+
 ![code05](/docs/code05.JPG)
 
 TestPostUser_Ok
+
 ![code06](/docs/code06.JPG)
 
 TestPutUser_BadRequest
+
 ![code07](/docs/code07.JPG)
 
 TestPutUser_Ok
+
 ![code08](/docs/code08.JPG)
 
 ## How to run the project
