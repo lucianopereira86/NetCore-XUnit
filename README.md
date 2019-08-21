@@ -19,7 +19,7 @@ In this guide you will learn how to program automated tests in a .Net Core Web A
 
 ## Behind The Code
 
-The APITest solution inside the "api" folder is composed by two layers: Presentation and Test.  
+The APITest solution inside the **api** folder is composed by two layers: Presentation and Test.  
 The Presentation layer contains the Web API structure such as Controllers, Models, [Swagger](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio), [AutoMapper](https://www.codeproject.com/Articles/1256100/Automapper-Using-NET-Core-API-2-1) and [FluentValidation](https://www.c-sharpcorner.com/article/using-fluentvalidation-in-asp-net-core/).  
 The Test layer contains the unit tests.
 
@@ -44,8 +44,8 @@ The PUT method does not return an object.
 ### Test Layer
 
 When using the Test Manager, 4 unit tests will be shown inside the xUnit project.  
-The "TestPostUser_BadRequest" and "TestPostUser_Ok" methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.  
-The "TestPutUser_BadRequest" and "TestPutUser_Ok" methods do the same but as a PUT request.
+The **TestPostUser_BadRequest** and **TestPostUser_Ok** methods will simulate a POST request to the User Controller expecting business exception ("BadRequest") and success ("Ok"), respectively.  
+The **TestPutUser_BadRequest** and **TestPutUser_Ok** methods do the same but as a PUT request.
 
 ![code02](/docs/code02.JPG)
 
@@ -56,25 +56,25 @@ All the methods have the same behavior:
 - Run the Controller method and receive the result.
 - Check if the result is the same as expected.
 
-TestPostUser_BadRequest
+**TestPostUser_BadRequest**
 
 ![code05](/docs/code05.JPG)
 
-TestPostUser_Ok
+**TestPostUser_Ok**
 
 ![code06](/docs/code06.JPG)
 
-TestPutUser_BadRequest
+**TestPutUser_BadRequest**
 
 ![code07](/docs/code07.JPG)
 
-TestPutUser_Ok
+**TestPutUser_Ok**
 
 ![code08](/docs/code08.JPG)
 
 ## How to run the project
 
-In the Test Manager, click with the right button over "UnitTestUser" and debug or run the selected tests.
+In the Test Manager, click with the right button over **UnitTestUser** and debug or run the selected tests.
 
 ![code09](/docs/code09.JPG)
 
@@ -82,7 +82,7 @@ All the tests will be successful.
 
 ![code10](/docs/code10.JPG)
 
-Now, let's change the UserPutVM's age from 33 to 15 and remove the id inside the "TestPutUser_Ok" method.
+Now, let's change the UserPutVM's age from 33 to 15 and remove the id inside the **TestPutUser_Ok** method.
 
 ![code11](/docs/code11.JPG)
 
@@ -90,12 +90,12 @@ Run the test again and there will be a failure.
 
 ![code12](/docs/code12.JPG)
 
-Why?
-Because the "PutUserValidation" class (inside the "Put" method of the User Controller) was checking if the id was greater than zero.
+Why?  
+Because the **PutUserValidation** class (inside the **Put** method of the User Controller) was checking if the id was greater than zero.
 
 ![code14](/docs/code14.JPG)
 
-As it was using the same rules from the "PostUserValidation" class, the age had to be equal or greater than 18.
+As it was using the same rules from the **PostUserValidation** class, the age had to be equal or greater than 18.
 
 ![code13](/docs/code13.JPG)
 
@@ -107,7 +107,7 @@ Run the API and access the Swagger page.
 
 ![swagger01](/docs/swagger01.JPG)
 
-The Put method has the same example used in the "TestPutUser_Ok" method.
+The Put method has the same example used in the **TestPutUser_Ok** method.
 
 ![swagger02](/docs/swagger02.JPG)
 
