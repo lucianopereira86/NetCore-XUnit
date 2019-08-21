@@ -56,19 +56,19 @@ All the methods have the same behavior:
 - Run the Controller method and receive the result.
 - Check if the result is the same as expected.
 
-**TestPostUser_BadRequest**
+**TestPostUser_BadRequest** (_Post user with business exception_)
 
 ![code05](/docs/code05.JPG)
 
-**TestPostUser_Ok**
+**TestPostUser_Ok** (_Post user with success_)
 
 ![code06](/docs/code06.JPG)
 
-**TestPutUser_BadRequest**
+**TestPutUser_BadRequest** (_Put user with business exception_)
 
 ![code07](/docs/code07.JPG)
 
-**TestPutUser_Ok**
+**TestPutUser_Ok** (_Put user with success_)
 
 ![code08](/docs/code08.JPG)
 
