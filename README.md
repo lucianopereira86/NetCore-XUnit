@@ -27,7 +27,7 @@ The Test layer contains the unit tests.
 
 ### Presentation Layer
 
-The User Controller has two methods: Post and Put. Both follow the same steps:
+The **UserController** has two methods: Post and Put. Both follow the same steps:
 
 - Copy the view model to the domain model by using the AutoMapper.
 - Validate the domain model with FluentValidation and return a BadRequest in case of business exception.
@@ -50,7 +50,7 @@ When using the Test Manager, 4 unit tests will be shown inside the xUnit project
 All the methods have the same behavior:
 
 - Create an AutoMapper object.
-- Instantiate the User Controller and the User view model.
+- Instantiate the **UserController** and the User view model.
 - Run the Controller method and receive the result.
 - Check if the result is the same as expected.
 
@@ -89,7 +89,7 @@ Run the test again and there will be a failure.
 ![code12](/docs/code12.JPG)
 
 Why?  
-Because the **PutUserValidation** class (inside the **Put** method of the User Controller) was checking if the id was greater than zero.
+Because the **PutUserValidation** class (inside the **UserController**'s **Put** method) was checking if the id was greater than zero.
 
 ![code14](/docs/code14.JPG)
 
