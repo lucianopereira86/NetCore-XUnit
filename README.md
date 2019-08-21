@@ -93,7 +93,7 @@ Because the **PutUserValidation** class (inside the **UserController**'s **Put**
 
 ![code14](/docs/code14.JPG)
 
-As it was using the same rules from the **PostUserValidation** class, the age had to be equal or greater than 18.
+As it was using the same rules from the **PostUserValidation** class, the age had to be equal or greater than 18 as well.
 
 ![code13](/docs/code13.JPG)
 
