@@ -15,7 +15,7 @@ Simple TDD example with .Net Core and xUnit
 
 ## Objective
 
-In this guide you will learn how to program automated tests in a .Net Core Web API by using [xUnit](https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test).
+In this guide you will learn how to program automated tests in a .Net Core Web API by using [xUnit](https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test) with TDD structure. All the tests were made by using [Visual Studio 2017 v15](https://docs.microsoft.com/pt-br/visualstudio/releasenotes/vs2017-relnotes-v15.0).
 
 ## Behind The Code
 
