@@ -8,7 +8,7 @@ Simple TDD example with .Net Core and xUnit
 
 - [.Net Core 2.2](https://dotnet.microsoft.com/download/dotnet-core/2.2)
 - [xUnit](https://docs.microsoft.com/pt-br/dotnet/core/testing/unit-testing-with-dotnet-test)
-- [TDD (Test Driven Development)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjxzbaAipXkAhWKBZEKHWk_BH0YABAAGgJjZQ&ohost=www.google.com&cid=CAESEeD2LDtPn_nBt8wImJrHuw_-&sig=AOD64_2aQ5N8rO8qG9Gk0EHhRHIEJNKYAw&q=&ved=2ahUKEwih5a2AipXkAhXFKLkGHVDSCN0Q0Qx6BAgREAE&adurl=)
+- [TDD](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjxzbaAipXkAhWKBZEKHWk_BH0YABAAGgJjZQ&ohost=www.google.com&cid=CAESEeD2LDtPn_nBt8wImJrHuw_-&sig=AOD64_2aQ5N8rO8qG9Gk0EHhRHIEJNKYAw&q=&ved=2ahUKEwih5a2AipXkAhXFKLkGHVDSCN0Q0Qx6BAgREAE&adurl=)
 - [Swagger](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio)
 - [FluentValidation](https://www.c-sharpcorner.com/article/using-fluentvalidation-in-asp-net-core/)
 - [AutoMapper](https://www.codeproject.com/Articles/1256100/Automapper-Using-NET-Core-API-2-1)
@@ -16,7 +16,7 @@ Simple TDD example with .Net Core and xUnit
 
 ## Objective
 
-In this guide you will learn how to program automated tests in a **.Net Core** Web API by using **xUnit** with **TDD** structure. This project was developed with **Visual Studio 2017 v15**.
+In this guide you will learn how to program automated tests in a **.Net Core** Web API by using **xUnit** with **TDD** (Test Driven Development) structure. This project was developed with **Visual Studio 2017 v15**.
 
 ## Behind The Code
 
