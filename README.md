@@ -22,7 +22,7 @@ The Test layer contains the unit tests.
 ![code01](/docs/code01.JPG)
 
 ### Presentation Layer
-The User Controller has two methods: POST and PUT. Both follow the same steps:
+The User Controller has two methods: Post and Put. Both follow the same steps:
 - Copy the view model to the domain model by using the AutoMapper.
 - Validate the domain model with FluentValidation and return a BadRequest in case of business exception.
 - In case of success, if there's an object to return, the AutoMapper copies the domain model to another view model.
