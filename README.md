@@ -80,7 +80,7 @@ All the tests will be successful.
 
 ![code10](/docs/code10.JPG)
 
-Now, let's change the UserPutVM's age from 33 to 15 and remove the id inside the **TestPutUser_Ok** method.
+Now, let's change the **UserPutVM**'s age from 33 to 15 and remove the id inside the **TestPutUser_Ok** method.
 
 ![code11](/docs/code11.JPG)
 
