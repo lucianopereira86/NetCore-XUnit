@@ -27,7 +27,7 @@ The Test layer contains the unit tests.
 
 ### Presentation Layer
 
-The **UserController** has two methods: Post and Put. Both follow the same steps:
+The **UserController** has two methods: **Post** and **Put**. Both follow the same steps:
 
 - Copy the view model to the domain model by using the AutoMapper.
 - Validate the domain model with FluentValidation and return a BadRequest in case of business exception.
@@ -105,7 +105,7 @@ Run the API and access the Swagger page.
 
 ![swagger01](/docs/swagger01.JPG)
 
-The Put method has the same example used in the **TestPutUser_Ok** method.
+The **Put** method has the same example used in the **TestPutUser_Ok** method.
 
 ![swagger02](/docs/swagger02.JPG)
 
