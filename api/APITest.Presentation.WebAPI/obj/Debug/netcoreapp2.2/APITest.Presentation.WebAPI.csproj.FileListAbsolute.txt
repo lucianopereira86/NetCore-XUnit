@@ -1,0 +1,35 @@
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITEST.xml
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.deps.json
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.runtimeconfig.json
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.runtimeconfig.dev.json
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.dll
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.pdb
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.AssemblyInfoInputs.cache
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.AssemblyInfo.cs
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.dll
+C:\Users\luxcl\Desktop\Github\Projetos\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.pdb
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITEST.xml
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.deps.json
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.runtimeconfig.json
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.runtimeconfig.dev.json
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.dll
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.pdb
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.csprojAssemblyReference.cache
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.AssemblyInfoInputs.cache
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.AssemblyInfo.cs
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.dll
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\NetCore-XUnit\Dev\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.pdb
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITEST.xml
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.deps.json
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.runtimeconfig.json
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.runtimeconfig.dev.json
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.dll
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\bin\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.pdb
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.csprojAssemblyReference.cache
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.AssemblyInfoInputs.cache
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.AssemblyInfo.cs
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.dll
+C:\Users\luciano.pereira\Desktop\Projetos\Vila do Silicio\TDD-NetCore-XUnit\Dev\api\APITest.Presentation.WebAPI\obj\Debug\netcoreapp2.2\APITest.Presentation.WebAPI.pdb

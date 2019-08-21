@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APITest.Presentation.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:APITest.Presentation.WebAPI.Controllers.UserController.Post(APITest.Presentation.WebAPI.Models.VM.UserPostVM)">
+            <summary>
+            Post user
+            </summary>
+        </member>
+        <member name="M:APITest.Presentation.WebAPI.Controllers.UserController.Put(APITest.Presentation.WebAPI.Models.VM.UserPutVM)">
+            <summary>
+            Put user
+            </summary>
+        </member>
+        <member name="T:APITest.Presentation.WebAPI.SwaggerDocs.Attributes.SwaggerProducesAttribute">
+            <summary>
+            SwaggerResponseContentTypeAttribute
+            </summary>
+        </member>
+    </members>
+</doc>
